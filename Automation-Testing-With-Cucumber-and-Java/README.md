@@ -1,0 +1,1 @@
+This is the automation exercise involving the TruNarrative website.
